@@ -1,4 +1,5 @@
 # Olist E-commerce Data (Batched)
+   > This repo currently contains only the first batch of the data, for practice.
 
 The Olist Brazilian e-commerce dataset, split into 3 chronological batches
 that are safe to load one after another with foreign keys enabled.
